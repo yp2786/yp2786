@@ -6,7 +6,7 @@ I'm a graduate student at Columbia University studying Operations Research.
 
 ## 🚀 Technical Focus
 * **Quantitative Finance:** Derivative pricing (Monte Carlo), Portfolio Optimization (Mean-Variance), and Risk Management (VaR, Expected Shortfall).
-* **Data Science:** Time-series analysis, statistical arbitrage, and machine learning (XGBoost).
+* **Data Science:** Time-series analysis, data mining, and machine learning (XGBoost).
 * **Engineering:** C++, Python, and SQL database management.
 
 ## 📫 Connect with me:
