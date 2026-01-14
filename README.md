@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Katherine 👋
 
-<!--
-**yp2786/yp2786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Quantitative Researcher | Financial Engineer
 
-Here are some ideas to get you started:
+I'm a graduate student at Columbia University studying Operations Research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technical Focus
+* **Quantitative Finance:** Derivative pricing (Monte Carlo), Portfolio Optimization (Mean-Variance), and Risk Management (VaR, Expected Shortfall).
+* **Data Science:** Time-series analysis, statistical arbitrage, and machine learning (XGBoost).
+* **Engineering:** C++, Python, and SQL database management.
+
+## 📫 Connect with me:
+* [LinkedIn] www.linkedin.com/in/yidipei
+* [Email] yp2786@columbia.edu
